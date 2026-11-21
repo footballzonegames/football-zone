@@ -1,0 +1,733 @@
+{
+ "updated": "2026-11-21T17:15+01:00",
+ "label": "21 nov",
+ "leagues": {
+  "laliga": {
+   "R": [
+    [
+     "Athletic",
+     "Espanyol",
+     0,
+     1,
+     "vie 20 nov"
+    ]
+   ],
+   "P": [
+    [
+     "Sevilla",
+     "Betis",
+     null,
+     null,
+     null,
+     "sáb 21 · 18:30"
+    ],
+    [
+     "Real Madrid",
+     "Celta",
+     null,
+     null,
+     null,
+     "sáb 21 · 21:00"
+    ],
+    [
+     "Barcelona",
+     "Villarreal",
+     null,
+     null,
+     null,
+     "dom 22 · 14:00"
+    ],
+    [
+     "Racing",
+     "R. Sociedad",
+     null,
+     null,
+     null,
+     "dom 22 · 16:15"
+    ],
+    [
+     "Osasuna",
+     "Málaga",
+     null,
+     null,
+     null,
+     "dom 22 · 18:30"
+    ],
+    [
+     "Getafe",
+     "Atlético",
+     null,
+     null,
+     null,
+     "dom 22 · 21:00"
+    ],
+    [
+     "Levante",
+     "Elche",
+     null,
+     null,
+     null,
+     "lun 23 · 21:00"
+    ],
+    [
+     "Levante",
+     "Racing",
+     null,
+     null,
+     null,
+     "vie 27 · 21:00"
+    ],
+    [
+     "Betis",
+     "Rayo",
+     null,
+     null,
+     null,
+     "sáb 28 · 14:00"
+    ],
+    [
+     "Málaga",
+     "Athletic",
+     null,
+     null,
+     null,
+     "sáb 28 · 16:15"
+    ]
+   ],
+   "S": "Barcelona|11|0|1|33;Real Madrid|10|0|2|30;Atlético|9|1|2|28;Betis|8|2|2|26;R. Sociedad|7|1|4|22;Sevilla|5|3|4|18;Athletic|4|4|4|16;Alavés|4|4|5|16;Villarreal|4|3|5|15;Espanyol|4|3|6|15;Deportivo|3|6|4|15;Racing|4|2|6|14;Celta|2|7|3|13;Rayo|3|3|6|12;Getafe|3|3|6|12;Osasuna|3|3|6|12;Valencia|3|3|7|12;Levante|2|5|5|11;Elche|2|4|6|10;Málaga|0|5|7|5",
+   "G": "Raphinha|Barcelona|15;Kylian Mbappé|Real Madrid|13;Lamine Yamal|Barcelona|10;Yassir Zabiri|Racing|9;Ante Budimir|Osasuna|8;Roberto Fernández|Espanyol|7;Sergio Camello|Rayo|7;Fermín López|Barcelona|7"
+  },
+  "premier": {
+   "R": [],
+   "P": [
+    [
+     "Newcastle",
+     "Arsenal",
+     null,
+     null,
+     null,
+     "sáb 21 · 18:30"
+    ],
+    [
+     "Hull",
+     "Brighton",
+     null,
+     null,
+     null,
+     "dom 22 · 15:00"
+    ],
+    [
+     "Liverpool",
+     "Man. United",
+     null,
+     null,
+     null,
+     "dom 22 · 17:30"
+    ],
+    [
+     "Brentford",
+     "Everton",
+     null,
+     null,
+     null,
+     "lun 23 · 21:00"
+    ],
+    [
+     "Nott. Forest",
+     "Chelsea",
+     null,
+     null,
+     null,
+     "vie 27 · 21:00"
+    ],
+    [
+     "Leeds",
+     "Coventry",
+     null,
+     null,
+     null,
+     "sáb 28 · 16:00"
+    ],
+    [
+     "Man. United",
+     "Brentford",
+     null,
+     null,
+     null,
+     "sáb 28 · 16:00"
+    ],
+    [
+     "Ipswich",
+     "Aston Villa",
+     null,
+     null,
+     null,
+     "sáb 28 · 18:30"
+    ],
+    [
+     "Everton",
+     "Liverpool",
+     null,
+     null,
+     null,
+     "dom 29 · 13:00"
+    ],
+    [
+     "Fulham",
+     "Bournemouth",
+     null,
+     null,
+     null,
+     "dom 29 · 15:05"
+    ]
+   ],
+   "S": "Arsenal|9|0|1|27;Brighton|7|1|2|22;Man. City|7|1|3|22;Bournemouth|5|3|3|18;Liverpool|5|3|2|18;Chelsea|5|2|4|17;Everton|4|4|2|16;Leeds|3|6|2|15;Tottenham|4|3|4|15;Brentford|3|5|2|14;Aston Villa|3|5|3|14;Newcastle|3|3|4|12;Hull|2|5|3|11;Fulham|2|5|4|11;Ipswich|3|2|6|11;Coventry|3|1|7|10;Nott. Forest|2|3|6|9;Sunderland|2|3|6|9;Man. United|1|5|4|8;Crystal Palace|2|2|7|8",
+   "G": "Erling Haaland|Man. City|9;Alexander Isak|Liverpool|7;Thierno Barry|Everton|6;Nicolas Jackson|Aston Villa|6;Evanilson|Bournemouth|6;Marcus Tavernier|Bournemouth|5;João Pedro|Chelsea|5;Morgan Rogers|Chelsea|5"
+  },
+  "seriea": {
+   "R": [
+    [
+     "Como",
+     "Cagliari",
+     2,
+     0,
+     "sáb 21 nov"
+    ],
+    [
+     "Lazio",
+     "Lecce",
+     3,
+     0,
+     "sáb 21 nov"
+    ]
+   ],
+   "P": [
+    [
+     "Parma",
+     "Roma",
+     null,
+     null,
+     null,
+     "sáb 21 · 18:00"
+    ],
+    [
+     "Napoli",
+     "Torino",
+     null,
+     null,
+     null,
+     "sáb 21 · 20:45"
+    ],
+    [
+     "Juventus",
+     "Venezia",
+     null,
+     null,
+     null,
+     "dom 22 · 12:30"
+    ],
+    [
+     "Bologna",
+     "Udinese",
+     null,
+     null,
+     null,
+     "dom 22 · 15:00"
+    ],
+    [
+     "Sassuolo",
+     "Genoa",
+     null,
+     null,
+     null,
+     "dom 22 · 15:00"
+    ],
+    [
+     "Milan",
+     "Frosinone",
+     null,
+     null,
+     null,
+     "dom 22 · 18:00"
+    ],
+    [
+     "Atalanta",
+     "Inter",
+     null,
+     null,
+     null,
+     "dom 22 · 20:45"
+    ],
+    [
+     "Monza",
+     "Fiorentina",
+     null,
+     null,
+     null,
+     "lun 23 · 20:45"
+    ],
+    [
+     "Venezia",
+     "Bologna",
+     null,
+     null,
+     null,
+     "vie 27 · 20:45"
+    ],
+    [
+     "Frosinone",
+     "Parma",
+     null,
+     null,
+     null,
+     "sáb 28 · 15:00"
+    ]
+   ],
+   "S": "Lazio|10|2|0|32;Inter|9|1|1|28;Roma|8|3|0|27;Como|8|2|2|26;Milan|7|3|1|24;Frosinone|6|2|3|20;Juventus|5|3|3|18;Bologna|5|2|4|17;Cagliari|5|1|6|16;Napoli|4|3|4|15;Torino|4|2|5|14;Atalanta|4|2|5|14;Genoa|4|1|6|13;Lecce|3|1|8|10;Fiorentina|2|3|6|9;Parma|2|2|7|8;Sassuolo|2|2|7|8;Monza|2|1|8|7;Venezia|2|0|9|6;Udinese|1|2|8|5",
+   "G": "Gustavo Varela|Monza|9;Donyell Malen|Roma|8;Antonio Raimondo|Frosinone|8;Nikola Krstović|Atalanta|7;Marcus Thuram-Ulien|Inter|6;Tijjani Noslin|Lazio|6;Anastasios Douvikas|Como|5;Alphadjo Cisse|Milan|5"
+  },
+  "bundes": {
+   "R": [
+    [
+     "Bayern",
+     "Colonia",
+     1,
+     1,
+     "vie 20 nov"
+    ]
+   ],
+   "P": [
+    [
+     "Schalke",
+     "Stuttgart",
+     null,
+     null,
+     null,
+     "sáb 21 · 18:30"
+    ],
+    [
+     "Augsburg",
+     "Mainz",
+     null,
+     null,
+     null,
+     "dom 22 · 15:30"
+    ],
+    [
+     "Bremen",
+     "Hamburgo",
+     null,
+     null,
+     null,
+     "dom 22 · 17:30"
+    ],
+    [
+     "Bremen",
+     "Gladbach",
+     null,
+     null,
+     null,
+     "vie 27 · 20:30"
+    ],
+    [
+     "Colonia",
+     "Elversberg",
+     null,
+     null,
+     null,
+     "sáb 28 · 15:30"
+    ],
+    [
+     "Mainz",
+     "Union Berlín",
+     null,
+     null,
+     null,
+     "sáb 28 · 15:30"
+    ],
+    [
+     "Paderborn",
+     "Schalke",
+     null,
+     null,
+     null,
+     "sáb 28 · 15:30"
+    ],
+    [
+     "Hamburgo",
+     "Bayern",
+     null,
+     null,
+     null,
+     "sáb 28 · 15:30"
+    ],
+    [
+     "Stuttgart",
+     "Frankfurt",
+     null,
+     null,
+     null,
+     "sáb 28 · 18:30"
+    ],
+    [
+     "Friburgo",
+     "Leipzig",
+     null,
+     null,
+     null,
+     "dom 29 · 15:30"
+    ]
+   ],
+   "S": "Dortmund|7|3|0|24;Bayern|6|4|0|22;Friburgo|7|1|2|22;Leipzig|7|0|3|21;Leverkusen|6|1|3|19;Bremen|4|3|2|15;Frankfurt|4|3|3|15;Elversberg|4|1|5|13;Stuttgart|4|0|5|12;Hoffenheim|4|0|6|12;Hamburgo|4|0|5|12;Mainz|3|1|5|10;Colonia|2|4|4|10;Paderborn|2|4|4|10;Augsburg|2|3|4|9;Union Berlín|1|4|5|7;Schalke|1|3|5|6;Gladbach|1|1|8|4",
+   "G": "Patrik Schick|Leverkusen|9;Niclas Füllkrug|Bremen|9;Michael Olise|Bayern|6;Younes Ebnoutalib|Frankfurt|6;Phillip Tietz|Mainz|6;Jonathan Burkardt|Frankfurt|6;Romulo Cruz|Leipzig|6;Antonio Nusa|Leipzig|5"
+  },
+  "ligue1": {
+   "R": [
+    [
+     "Troyes",
+     "Le Havre",
+     3,
+     1,
+     "vie 20 nov"
+    ]
+   ],
+   "P": [
+    [
+     "Niza",
+     "PSG",
+     null,
+     null,
+     null,
+     "sáb 21 · 17:15"
+    ],
+    [
+     "Mónaco",
+     "Auxerre",
+     null,
+     null,
+     null,
+     "sáb 21 · 20:45"
+    ],
+    [
+     "Lens",
+     "Toulouse",
+     null,
+     null,
+     null,
+     "sáb 21 · 20:45"
+    ],
+    [
+     "Lille",
+     "Lyon",
+     null,
+     null,
+     null,
+     "sáb 21 · 20:45"
+    ],
+    [
+     "Estrasburgo",
+     "Brest",
+     null,
+     null,
+     null,
+     "sáb 21 · 20:45"
+    ],
+    [
+     "Paris FC",
+     "Angers",
+     null,
+     null,
+     null,
+     "dom 22 · 15:00"
+    ],
+    [
+     "Lorient",
+     "Stade Rennais",
+     null,
+     null,
+     null,
+     "dom 22 · 17:15"
+    ],
+    [
+     "Marsella",
+     "Le Mans",
+     null,
+     null,
+     null,
+     "dom 22 · 20:45"
+    ],
+    [
+     "Brest",
+     "Paris FC",
+     null,
+     null,
+     null,
+     "vie 27 · 20:45"
+    ],
+    [
+     "Angers",
+     "Lens",
+     null,
+     null,
+     null,
+     "sáb 28 · 17:15"
+    ]
+   ],
+   "S": "PSG|7|2|1|23;Lille|6|3|1|21;Paris FC|6|2|2|20;Marsella|6|0|4|18;Lyon|5|2|3|17;Niza|5|2|3|17;Mónaco|4|4|2|16;Stade Rennais|5|1|4|16;Brest|4|3|3|15;Lorient|4|3|3|15;Lens|4|1|5|13;Toulouse|3|4|3|13;Troyes|3|2|6|11;Estrasburgo|3|1|6|10;Auxerre|3|1|6|10;Le Mans|1|5|4|8;Angers|2|2|6|8;Le Havre|0|2|9|2",
+   "G": "Lassine Sinayoko|Paris FC|9;Amine Gouiri|Marsella|7;Esteban Lepaul|Stade Rennais|7;Cameron Archer|Auxerre|6;Sepe Elye Wahi|Niza|6;Florian Thauvin|Lens|5;Ludovic Ajorque|Brest|5;Casper Tengstedt|Toulouse|5"
+  },
+  "portugal": {
+   "R": [],
+   "P": [
+    [
+     "Marítimo",
+     "Nacional",
+     null,
+     null,
+     null,
+     "vie 27 · 21:15"
+    ],
+    [
+     "Moreirense",
+     "Santa Clara",
+     null,
+     null,
+     null,
+     "sáb 28 · 16:30"
+    ],
+    [
+     "Arouca",
+     "Rio Ave",
+     null,
+     null,
+     null,
+     "sáb 28 · 16:30"
+    ],
+    [
+     "Académico Viseu",
+     "Alverca",
+     null,
+     null,
+     null,
+     "sáb 28 · 19:00"
+    ],
+    [
+     "Vitória SC",
+     "Estrela Amadora",
+     null,
+     null,
+     null,
+     "sáb 28 · 21:30"
+    ],
+    [
+     "Gil Vicente",
+     "Estoril Praia",
+     null,
+     null,
+     null,
+     "dom 29 · 19:00"
+    ],
+    [
+     "FC Porto",
+     "Sporting CP",
+     null,
+     null,
+     null,
+     "dom 29 · 21:30"
+    ],
+    [
+     "Casa Pia",
+     "Braga",
+     null,
+     null,
+     null,
+     "lun 30 · 21:15"
+    ],
+    [
+     "Benfica",
+     "Famalicão",
+     null,
+     null,
+     null,
+     "lun 30 · 21:15"
+    ]
+   ],
+   "S": "FC Porto|11|0|0|33;Benfica|9|1|1|28;Sporting CP|7|3|1|24;Santa Clara|6|3|2|21;Arouca|6|2|3|20;Académico Viseu|6|2|3|20;Gil Vicente|5|3|3|18;Braga|5|2|4|17;Moreirense|4|2|5|14;Famalicão|3|4|4|13;Alverca|3|3|5|12;Estrela Amadora|2|4|5|10;Nacional|3|1|7|10;Vitória SC|2|3|6|9;Marítimo|2|2|6|8;Casa Pia|2|2|7|8;Rio Ave|2|1|8|7;Estoril Praia|0|2|8|2",
+   "G": "Vangelis Pavlidis|Benfica|11;Luis Suárez|Sporting CP|9;Gianluca Prestianni|Benfica|7;Borja Sainz|FC Porto|6;Georgios Koutsias|Famalicão|5;Barbero|Arouca|5;Leandro Antonetti|Estrela Amadora|5;Gabriel Veiga|FC Porto|5"
+  },
+  "ered": {
+   "R": [],
+   "P": [
+    [
+     "NEC",
+     "PSV",
+     null,
+     null,
+     null,
+     "sáb 21 · 16:30"
+    ],
+    [
+     "Feyenoord",
+     "Excelsior",
+     null,
+     null,
+     null,
+     "sáb 21 · 18:45"
+    ],
+    [
+     "Utrecht",
+     "Cambuur",
+     null,
+     null,
+     null,
+     "sáb 21 · 18:45"
+    ],
+    [
+     "Telstar",
+     "Zwolle",
+     null,
+     null,
+     null,
+     "sáb 21 · 21:00"
+    ],
+    [
+     "Groningen",
+     "Heerenveen",
+     null,
+     null,
+     null,
+     "sáb 21 · 21:00"
+    ],
+    [
+     "Twente",
+     "Willem II",
+     null,
+     null,
+     null,
+     "dom 22 · 12:15"
+    ],
+    [
+     "Sparta Rotterdam",
+     "AZ",
+     null,
+     null,
+     null,
+     "dom 22 · 14:30"
+    ],
+    [
+     "Ajax",
+     "ADO Den Haag",
+     null,
+     null,
+     null,
+     "dom 22 · 14:30"
+    ],
+    [
+     "Go Ahead Eagles",
+     "Fortuna Sittard",
+     null,
+     null,
+     null,
+     "dom 22 · 16:45"
+    ],
+    [
+     "Groningen",
+     "Willem II",
+     null,
+     null,
+     null,
+     "vie 27 · 20:00"
+    ]
+   ],
+   "S": "PSV|9|2|2|29;Feyenoord|7|4|1|25;Ajax|7|4|1|25;Twente|7|3|2|24;AZ|7|2|3|23;Heerenveen|6|3|3|21;Fortuna Sittard|5|5|2|20;Go Ahead Eagles|4|5|3|17;Groningen|4|3|5|15;Cambuur|4|3|5|15;NEC|3|5|5|14;Sparta Rotterdam|3|3|6|12;Zwolle|3|3|6|12;Utrecht|3|3|6|12;Excelsior|3|2|7|11;Telstar|2|4|6|10;ADO Den Haag|2|3|7|9;Willem II|0|3|9|3",
+   "G": "Søren Tengstedt|Go Ahead Eagles|9;Brynjolfur Darri Willumsson|Groningen|9;Sven Mijnans|PSV|9;Wout Weghorst|Twente|9;Thom van Bergen|Groningen|8;Milan Zonneveld|Sparta Rotterdam|8;Guus Til|PSV|7;Anis Moussa|Feyenoord|7"
+  },
+  "champ": {
+   "R": [],
+   "P": [
+    [
+     "Galatasaray",
+     "Aston Villa",
+     null,
+     null,
+     null,
+     "mar 24 · 18:45"
+    ],
+    [
+     "Bodø/Glimt",
+     "LASK",
+     null,
+     null,
+     null,
+     "mar 24 · 18:45"
+    ],
+    [
+     "Real Madrid",
+     "PSV",
+     null,
+     null,
+     null,
+     "mar 24 · 21:00"
+    ],
+    [
+     "Man. City",
+     "Napoli",
+     null,
+     null,
+     null,
+     "mar 24 · 21:00"
+    ],
+    [
+     "Arsenal",
+     "Dortmund",
+     null,
+     null,
+     null,
+     "mar 24 · 21:00"
+    ],
+    [
+     "Feyenoord",
+     "Porto",
+     null,
+     null,
+     null,
+     "mar 24 · 21:00"
+    ],
+    [
+     "Slovan",
+     "Betis",
+     null,
+     null,
+     null,
+     "mar 24 · 21:00"
+    ],
+    [
+     "Leipzig",
+     "Lens",
+     null,
+     null,
+     null,
+     "mar 24 · 21:00"
+    ],
+    [
+     "Como",
+     "PAE AEK",
+     null,
+     null,
+     null,
+     "mar 24 · 21:00"
+    ],
+    [
+     "Sabah",
+     "Barcelona",
+     null,
+     null,
+     null,
+     "mié 25 · 18:45"
+    ]
+   ],
+   "S": "PSG|4|0|0|12;Real Madrid|4|0|0|12;Arsenal|3|1|0|10;Como|3|0|1|9;Barcelona|3|0|1|9;Aston Villa|3|0|1|9;Man. City|3|0|1|9;Liverpool|3|0|1|9;Brujas|3|0|1|9;Sporting CP|3|0|1|9;Betis|3|0|1|9;Dortmund|3|0|1|9;Bayern|2|2|0|8;Stuttgart|2|1|1|7;Inter|2|0|2|6;LASK|2|0|2|6;Man. United|2|0|2|6;Galatasaray|2|0|2|6;Fenerbahçe|1|2|1|5;Roma|1|1|2|4;Shakhtar|1|1|2|4;Viking|1|1|2|4;Atlético|1|1|2|4;PSV|1|1|2|4;Bodø/Glimt|1|1|2|4;Porto|1|0|3|3;Napoli|1|0|3|3;Villarreal|1|0|3|3;PAE AEK|1|0|3|3;Leipzig|1|0|3|3;Sabah|1|0|3|3;Feyenoord|1|0|3|3;Lens|1|0|3|3;Slavia Praga|0|1|3|1;Lille|0|1|3|1;Slovan|0|0|4|0",
+   "G": "Anastasios Douvikas|Como|6;Nicolo Tresoldi|Brujas|5;Erling Haaland|Man. City|5;Kylian Mbappé|Real Madrid|4;Sehrou Guirassy|Dortmund|4;Raphinha|Barcelona|4;Ermedin Demirovic|Stuttgart|4;Fabián Ruiz|PSG|4"
+  }
+ }
+}
