@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T08:14+01:00",
- "label": "23 nov",
+ "updated": "2026-11-24T07:59+01:00",
+ "label": "24 nov",
  "leagues": {
   "laliga": {
    "R": [
@@ -66,17 +66,16 @@
      0,
      3,
      "dom 22 nov"
-    ]
-   ],
-   "P": [
+    ],
     [
      "Levante",
      "Elche",
-     null,
-     null,
-     null,
-     "lun 23 · 21:00"
-    ],
+     1,
+     1,
+     "lun 23 nov"
+    ]
+   ],
+   "P": [
     [
      "Levante",
      "Racing",
@@ -148,9 +147,17 @@
      null,
      null,
      "dom 29 · 21:00"
+    ],
+    [
+     "Espanyol",
+     "Getafe",
+     null,
+     null,
+     null,
+     "lun 30 · 21:00"
     ]
    ],
-   "S": "Barcelona|12|0|1|36;Real Madrid|11|0|2|33;Atlético|10|1|2|31;Betis|8|3|2|27;R. Sociedad|7|1|5|22;Sevilla|5|4|4|19;Racing|5|2|6|17;Athletic|4|4|4|16;Alavés|4|4|5|16;Villarreal|4|3|6|15;Espanyol|4|3|6|15;Deportivo|3|6|4|15;Osasuna|4|3|6|15;Celta|2|7|4|13;Rayo|3|3|6|12;Valencia|3|3|7|12;Getafe|3|3|7|12;Levante|2|5|5|11;Elche|2|4|6|10;Málaga|0|5|8|5",
+   "S": "Barcelona|12|0|1|36;Real Madrid|11|0|2|33;Atlético|10|1|2|31;Betis|8|3|2|27;R. Sociedad|7|1|5|22;Sevilla|5|4|4|19;Racing|5|2|6|17;Athletic|4|4|4|16;Alavés|4|4|5|16;Villarreal|4|3|6|15;Espanyol|4|3|6|15;Deportivo|3|6|4|15;Osasuna|4|3|6|15;Celta|2|7|4|13;Levante|2|6|5|12;Rayo|3|3|6|12;Valencia|3|3|7|12;Getafe|3|3|7|12;Elche|2|5|6|11;Málaga|0|5|8|5",
    "G": "Raphinha|Barcelona|15;Kylian Mbappé|Real Madrid|13;Yassir Zabiri|Racing|11;Lamine Yamal|Barcelona|10;Ante Budimir|Osasuna|9;Fermín López|Barcelona|8;Roberto Fernández|Espanyol|7;Sergio Camello|Rayo|7"
   },
   "premier": {
@@ -217,17 +224,16 @@
      4,
      0,
      "dom 22 nov"
-    ]
-   ],
-   "P": [
+    ],
     [
      "Brentford",
      "Everton",
-     null,
-     null,
-     null,
-     "lun 23 · 21:00"
-    ],
+     4,
+     0,
+     "lun 23 nov"
+    ]
+   ],
+   "P": [
     [
      "Nott. Forest",
      "Chelsea",
@@ -299,9 +305,17 @@
      null,
      null,
      "dom 29 · 15:05"
+    ],
+    [
+     "Arsenal",
+     "Man. City",
+     null,
+     null,
+     null,
+     "dom 29 · 17:30"
     ]
    ],
-   "S": "Arsenal|9|1|1|28;Brighton|7|1|3|22;Man. City|7|1|3|22;Liverpool|6|3|2|21;Bournemouth|5|3|3|18;Leeds|4|5|2|17;Everton|4|4|2|16;Chelsea|5|1|5|16;Tottenham|4|3|4|15;Brentford|3|5|2|14;Hull|3|5|3|14;Aston Villa|3|5|3|14;Newcastle|3|4|4|13;Coventry|4|0|7|12;Fulham|2|5|4|11;Ipswich|3|2|6|11;Nott. Forest|2|3|6|9;Sunderland|2|3|6|9;Man. United|1|5|5|8;Crystal Palace|2|1|8|7",
+   "S": "Arsenal|9|1|1|28;Brighton|7|1|3|22;Man. City|7|1|3|22;Liverpool|6|3|2|21;Bournemouth|5|3|3|18;Brentford|4|5|2|17;Leeds|4|5|2|17;Chelsea|5|1|5|16;Everton|4|4|3|16;Tottenham|4|3|4|15;Hull|3|5|3|14;Aston Villa|3|5|3|14;Newcastle|3|4|4|13;Coventry|4|0|7|12;Fulham|2|5|4|11;Ipswich|3|2|6|11;Nott. Forest|2|3|6|9;Sunderland|2|3|6|9;Man. United|1|5|5|8;Crystal Palace|2|1|8|7",
    "G": "Erling Haaland|Man. City|9;Alexander Isak|Liverpool|7;Thierno Barry|Everton|6;Nicolas Jackson|Aston Villa|6;Evanilson|Bournemouth|6;Marcus Tavernier|Bournemouth|5;João Pedro|Chelsea|5;Morgan Rogers|Chelsea|5"
   },
   "seriea": {
@@ -368,17 +382,16 @@
      4,
      4,
      "dom 22 nov"
-    ]
-   ],
-   "P": [
+    ],
     [
      "Monza",
      "Fiorentina",
-     null,
-     null,
-     null,
-     "lun 23 · 20:45"
-    ],
+     3,
+     0,
+     "lun 23 nov"
+    ]
+   ],
+   "P": [
     [
      "Venezia",
      "Bologna",
@@ -450,10 +463,18 @@
      null,
      null,
      "lun 30 · 18:30"
+    ],
+    [
+     "Cagliari",
+     "Milan",
+     null,
+     null,
+     null,
+     "lun 30 · 20:45"
     ]
    ],
-   "S": "Lazio|10|2|0|32;Roma|9|3|0|30;Inter|9|2|1|29;Milan|8|3|1|27;Como|8|2|2|26;Juventus|6|3|3|21;Frosinone|6|2|4|20;Napoli|5|3|4|18;Bologna|5|3|4|18;Genoa|5|1|6|16;Cagliari|5|1|6|16;Atalanta|4|3|5|15;Torino|4|2|6|14;Lecce|3|1|8|10;Fiorentina|2|3|6|9;Parma|2|2|8|8;Sassuolo|2|2|8|8;Monza|2|1|8|7;Udinese|1|3|8|6;Venezia|2|0|10|6",
-   "G": "Donyell Malen|Roma|12;Gustavo Varela|Monza|9;Antonio Raimondo|Frosinone|8;Nikola Krstović|Atalanta|7;Francesco Esposito|Inter|6;Alphadjo Cisse|Milan|6;Milutin Osmajić|Genoa|6;Marcus Thuram-Ulien|Inter|6"
+   "S": "Lazio|10|2|0|32;Roma|9|3|0|30;Inter|9|2|1|29;Milan|8|3|1|27;Como|8|2|2|26;Juventus|6|3|3|21;Frosinone|6|2|4|20;Napoli|5|3|4|18;Bologna|5|3|4|18;Genoa|5|1|6|16;Cagliari|5|1|6|16;Atalanta|4|3|5|15;Torino|4|2|6|14;Monza|3|1|8|10;Lecce|3|1|8|10;Fiorentina|2|3|7|9;Parma|2|2|8|8;Sassuolo|2|2|8|8;Udinese|1|3|8|6;Venezia|2|0|10|6",
+   "G": "Donyell Malen|Roma|12;Gustavo Varela|Monza|11;Antonio Raimondo|Frosinone|8;Nikola Krstović|Atalanta|7;Francesco Esposito|Inter|6;Alphadjo Cisse|Milan|6;Milutin Osmajić|Genoa|6;Marcus Thuram-Ulien|Inter|6"
   },
   "bundes": {
    "R": [
