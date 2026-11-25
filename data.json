@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T07:59+01:00",
- "label": "24 nov",
+ "updated": "2026-11-25T08:02+01:00",
+ "label": "25 nov",
  "leagues": {
   "laliga": {
    "R": [
@@ -614,6 +614,14 @@
      null,
      null,
      "dom 29 · 19:30"
+    ],
+    [
+     "Bayern",
+     "Paderborn",
+     null,
+     null,
+     null,
+     "vie 4 · 20:30"
     ]
    ],
    "S": "Dortmund|7|3|0|24;Bayern|6|4|0|22;Friburgo|7|1|2|22;Leipzig|7|0|3|21;Leverkusen|6|1|3|19;Bremen|5|3|2|18;Frankfurt|4|3|3|15;Stuttgart|4|1|5|13;Elversberg|4|1|5|13;Augsburg|3|3|4|12;Hoffenheim|4|0|6|12;Hamburgo|4|0|6|12;Mainz|3|1|6|10;Colonia|2|4|4|10;Paderborn|2|4|4|10;Schalke|1|4|5|7;Union Berlín|1|4|5|7;Gladbach|1|1|8|4",
@@ -757,6 +765,14 @@
      null,
      null,
      "dom 29 · 20:45"
+    ],
+    [
+     "Toulouse",
+     "PSG",
+     null,
+     null,
+     null,
+     "vie 4 · 20:45"
     ]
    ],
    "S": "PSG|8|2|1|26;Paris FC|7|2|2|23;Lille|6|3|2|21;Lyon|6|2|3|20;Marsella|6|0|5|18;Brest|5|3|3|18;Niza|5|2|4|17;Mónaco|4|5|2|17;Stade Rennais|5|2|4|17;Lorient|4|4|3|16;Lens|4|2|5|14;Toulouse|3|5|3|14;Le Mans|2|5|4|11;Troyes|3|2|6|11;Auxerre|3|2|6|11;Estrasburgo|3|1|7|10;Angers|2|2|7|8;Le Havre|0|2|9|2",
@@ -836,6 +852,14 @@
      null,
      null,
      "lun 30 · 21:15"
+    ],
+    [
+     "Sporting CP",
+     "Marítimo",
+     null,
+     null,
+     null,
+     "vie 4 · 21:15"
     ]
    ],
    "S": "FC Porto|11|0|0|33;Benfica|9|1|1|28;Sporting CP|7|3|1|24;Santa Clara|6|3|2|21;Arouca|6|2|3|20;Académico Viseu|6|2|3|20;Gil Vicente|5|3|3|18;Braga|5|2|4|17;Moreirense|4|2|5|14;Famalicão|3|4|4|13;Alverca|3|3|5|12;Estrela Amadora|2|4|5|10;Nacional|3|1|7|10;Vitória SC|2|3|6|9;Marítimo|2|2|6|8;Casa Pia|2|2|7|8;Rio Ave|2|1|8|7;Estoril Praia|0|2|8|2",
@@ -979,86 +1003,86 @@
      null,
      null,
      "dom 29 · 20:00"
+    ],
+    [
+     "Telstar",
+     "Groningen",
+     null,
+     null,
+     null,
+     "vie 4 · 20:00"
     ]
    ],
    "S": "PSV|9|2|2|29;Ajax|8|4|1|28;Twente|8|3|2|27;AZ|8|2|3|26;Feyenoord|7|4|2|25;Heerenveen|7|3|3|24;Fortuna Sittard|6|5|2|23;Cambuur|5|3|5|18;Go Ahead Eagles|4|5|4|17;Groningen|4|3|6|15;Zwolle|4|3|6|15;NEC|3|5|5|14;Excelsior|4|2|7|14;Sparta Rotterdam|3|3|7|12;Utrecht|3|3|7|12;Telstar|2|4|7|10;ADO Den Haag|2|3|8|9;Willem II|0|3|10|3",
    "G": "Søren Tengstedt|Go Ahead Eagles|9;Brynjolfur Darri Willumsson|Groningen|9;Thom van Bergen|Groningen|9;Sven Mijnans|PSV|9;Wout Weghorst|Twente|9;Milan Zonneveld|Sparta Rotterdam|8;Guus Til|PSV|7;Anis Moussa|Feyenoord|7"
   },
   "champ": {
-   "R": [],
-   "P": [
+   "R": [
     [
      "Galatasaray",
      "Aston Villa",
-     null,
-     null,
-     null,
-     "mar 24 · 18:45"
+     1,
+     0,
+     "mar 24 nov"
     ],
     [
      "Bodø/Glimt",
      "LASK",
-     null,
-     null,
-     null,
-     "mar 24 · 18:45"
+     1,
+     0,
+     "mar 24 nov"
     ],
     [
      "Real Madrid",
      "PSV",
-     null,
-     null,
-     null,
-     "mar 24 · 21:00"
+     5,
+     1,
+     "mar 24 nov"
     ],
     [
      "Man. City",
      "Napoli",
-     null,
-     null,
-     null,
-     "mar 24 · 21:00"
+     2,
+     2,
+     "mar 24 nov"
     ],
     [
      "Arsenal",
      "Dortmund",
-     null,
-     null,
-     null,
-     "mar 24 · 21:00"
+     1,
+     1,
+     "mar 24 nov"
     ],
     [
      "Feyenoord",
      "Porto",
-     null,
-     null,
-     null,
-     "mar 24 · 21:00"
+     0,
+     1,
+     "mar 24 nov"
     ],
     [
      "Slovan",
      "Betis",
-     null,
-     null,
-     null,
-     "mar 24 · 21:00"
+     0,
+     2,
+     "mar 24 nov"
     ],
     [
      "Leipzig",
      "Lens",
-     null,
-     null,
-     null,
-     "mar 24 · 21:00"
+     3,
+     1,
+     "mar 24 nov"
     ],
     [
      "Como",
      "PAE AEK",
-     null,
-     null,
-     null,
-     "mar 24 · 21:00"
-    ],
+     1,
+     0,
+     "mar 24 nov"
+    ]
+   ],
+   "P": [
     [
      "Sabah",
      "Barcelona",
@@ -1066,10 +1090,74 @@
      null,
      null,
      "mié 25 · 18:45"
+    ],
+    [
+     "Slavia Praga",
+     "Villarreal",
+     null,
+     null,
+     null,
+     "mié 25 · 18:45"
+    ],
+    [
+     "Inter",
+     "Stuttgart",
+     null,
+     null,
+     null,
+     "mié 25 · 21:00"
+    ],
+    [
+     "Atlético",
+     "Viking",
+     null,
+     null,
+     null,
+     "mié 25 · 21:00"
+    ],
+    [
+     "PSG",
+     "Roma",
+     null,
+     null,
+     null,
+     "mié 25 · 21:00"
+    ],
+    [
+     "Brujas",
+     "Liverpool",
+     null,
+     null,
+     null,
+     "mié 25 · 21:00"
+    ],
+    [
+     "Lille",
+     "Bayern",
+     null,
+     null,
+     null,
+     "mié 25 · 21:00"
+    ],
+    [
+     "Sporting CP",
+     "Man. United",
+     null,
+     null,
+     null,
+     "mié 25 · 21:00"
+    ],
+    [
+     "Shakhtar",
+     "Fenerbahçe",
+     null,
+     null,
+     null,
+     "mié 25 · 21:00"
     ]
    ],
-   "S": "PSG|4|0|0|12;Real Madrid|4|0|0|12;Arsenal|3|1|0|10;Como|3|0|1|9;Barcelona|3|0|1|9;Aston Villa|3|0|1|9;Man. City|3|0|1|9;Liverpool|3|0|1|9;Brujas|3|0|1|9;Sporting CP|3|0|1|9;Betis|3|0|1|9;Dortmund|3|0|1|9;Bayern|2|2|0|8;Stuttgart|2|1|1|7;Inter|2|0|2|6;LASK|2|0|2|6;Man. United|2|0|2|6;Galatasaray|2|0|2|6;Fenerbahçe|1|2|1|5;Roma|1|1|2|4;Shakhtar|1|1|2|4;Viking|1|1|2|4;Atlético|1|1|2|4;PSV|1|1|2|4;Bodø/Glimt|1|1|2|4;Porto|1|0|3|3;Napoli|1|0|3|3;Villarreal|1|0|3|3;PAE AEK|1|0|3|3;Leipzig|1|0|3|3;Sabah|1|0|3|3;Feyenoord|1|0|3|3;Lens|1|0|3|3;Slavia Praga|0|1|3|1;Lille|0|1|3|1;Slovan|0|0|4|0",
-   "G": "Anastasios Douvikas|Como|6;Nicolo Tresoldi|Brujas|5;Erling Haaland|Man. City|5;Kylian Mbappé|Real Madrid|4;Sehrou Guirassy|Dortmund|4;Raphinha|Barcelona|4;Ermedin Demirovic|Stuttgart|4;Fabián Ruiz|PSG|4"
+   "S": "Real Madrid|5|0|0|15;PSG|4|0|0|12;Como|4|0|1|12;Betis|4|0|1|12;Arsenal|3|2|0|11;Man. City|3|1|1|10;Dortmund|3|1|1|10;Barcelona|3|0|1|9;Aston Villa|3|0|2|9;Liverpool|3|0|1|9;Brujas|3|0|1|9;Sporting CP|3|0|1|9;Galatasaray|3|0|2|9;Bayern|2|2|0|8;Stuttgart|2|1|1|7;Bodø/Glimt|2|1|2|7;Inter|2|0|2|6;LASK|2|0|3|6;Man. United|2|0|2|6;Porto|2|0|3|6;Leipzig|2|0|3|6;Fenerbahçe|1|2|1|5;Roma|1|1|2|4;Shakhtar|1|1|2|4;Viking|1|1|2|4;Atlético|1|1|2|4;Napoli|1|1|3|4;PSV|1|1|3|4;Villarreal|1|0|3|3;Sabah|1|0|3|3;PAE AEK|1|0|4|3;Feyenoord|1|0|4|3;Lens|1|0|4|3;Slavia Praga|0|1|3|1;Lille|0|1|3|1;Slovan|0|0|5|0",
+   "G": "Kylian Mbappé|Real Madrid|6;Anastasios Douvikas|Como|6;Nicolo Tresoldi|Brujas|5;Erling Haaland|Man. City|5;Sehrou Guirassy|Dortmund|4;Raphinha|Barcelona|4;Ermedin Demirovic|Stuttgart|4;Fabián Ruiz|PSG|4"
   }
  }
 }
